@@ -1,0 +1,10 @@
+2.1 
+Final project aplikasi laundry. 
+
+2.2 
+Front end : Joseph
+Back end : Jordan
+Database, Laporan dll : Arga
+
+2.3 permasalahan: pemasaran laundry karena tempat yang kurang strategis. 
+Solusi: Membuat promo pada aplikasi agar orang-orang tertarik menggunakan aplikasi yang dibuat dan akan terbiasa menggunalan jasa aplikasi laundry tersebut.

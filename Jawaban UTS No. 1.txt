@@ -1,0 +1,9 @@
+Secara sederhana, "framework" dalam pengembangan aplikasi dapat diibaratkan sebagai kerangka kerja atau struktur dasar yang telah disiapkan sebelumnya untuk membantu pengembang membuat aplikasi dengan lebih efisien. Bayangkan jika Anda ingin membangun sebuah rumah: daripada memulai dari awal dengan membuat rencana dan struktur konstruksi, Anda bisa menggunakan kerangka kerja seperti pondasi dan dinding yang sudah ada.
+
+Dalam konteks pengembangan aplikasi, framework menyediakan alat dan aturan-aturan tertentu yang memudahkan pengembang dalam membuat fitur-fitur umum dan menangani tugas-tugas yang sering muncul tanpa harus memulai dari nol setiap kali. Ini dapat mencakup hal-hal seperti manajemen database, antarmuka pengguna, keamanan, dan hal-hal teknis lainnya.
+
+Dengan menggunakan framework, pengembang dapat menghemat waktu dan usaha karena sebagian besar struktur dasar sudah ada, dan mereka hanya perlu fokus pada logika khusus aplikasi yang ingin mereka buat. Jadi, secara umum, framework membantu membuat proses pengembangan aplikasi menjadi lebih efisien dan terorganisir.
+
+
+
+
